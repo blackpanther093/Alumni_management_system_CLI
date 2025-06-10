@@ -119,4 +119,4 @@ Feel free to use it for academic or learning purposes.
 ## 🙇‍♂️ Author
 
 Created with ❤️ by **Jatin**
-📢 GitHub: [github.com/YOUR\_USERNAME](https://github.com/blackpanther093)
+📢 GitHub: [github.com/blackpanther093](https://github.com/blackpanther093)
