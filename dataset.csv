@@ -28,3 +28,73 @@ A047,Ankit Jain,2017,B.Tech. Civil Engineering,Civil Engineering,ankit.jain@exam
 A048,Harpreet Singh,2020,B.Tech. Electrical Engineering,Electrical Engineering,harpreet.singh@example.com,9876543257,Electrical Engineer,ABB,Pune
 A049,Neha Rani,2021,B.Tech. Computer Science,Computer Science,neha.rani@example.com,9876543258,Frontend Developer,Zoho,Chennai
 A050,Shivendra Soni,2019,B.Tech. Mechanical Engineering,Mechanical Engineering,shivendra.soni@example.com,9876543259,Quality Assurance Engineer,GE Aviation,Hyderabad
+A051,Sunita Rao,2020,B.Tech. Chemical Engineering,Chemical Engineering,sunita.rao@example.com,9876543260,Process Engineer,Asian Paints,Mumbai
+A052,Rahul Batra,2015,B.Tech. Electrical Engineering,Electrical Engineering,rahul.batra@example.com,9876543261,Electrical Engineer,ABB,Noida
+A053,Anjali Sinha,2019,B.Tech. Computer Science,Computer Science,anjali.sinha@example.com,9876543262,Data Analyst,Google,Bangalore
+A054,Suresh Kumar,2017,B.Tech. Mechanical Engineering,Mechanical Engineering,suresh.kumar@example.com,9876543263,Mechanical Engineer,Bosch,Chennai
+A055,Aarav Mishra,2018,B.Tech. IT,Information Technology,aarav.mishra@example.com,9876543264,System Administrator,Oracle,Mumbai
+A056,Priya Menon,2016,B.Tech. Civil Engineering,Civil Engineering,priya.menon@example.com,9876543265,Civil Engineer,HCC,Mumbai
+A057,Amit Shukla,2021,B.Tech. Electronics Engineering,Electronics,amit.shukla@example.com,9876543266,PCB Designer,Honeywell,Delhi
+A058,Rajesh Verma,2022,B.Tech. Mechanical Engineering,Mechanical Engineering,rajesh.verma@example.com,9876543267,Mechanical Designer,Honda,Chennai
+A059,Sushma Reddy,2020,B.Tech. Electrical Engineering,Electrical Engineering,sushma.reddy@example.com,9876543268,Power Systems Engineer,TATA Power,Mumbai
+A060,Shalini Gupta,2018,B.Tech. Computer Science,Computer Science,shalini.gupta@example.com,9876543269,Full Stack Developer,Deloitte,Hyderabad
+A061,Pradeep Singh,2014,B.Tech. Civil Engineering,Civil Engineering,pradeep.singh@example.com,9876543270,Project Engineer,L&T,Delhi
+A062,Mahesh Yadav,2019,B.Tech. Chemical Engineering,Chemical Engineering,mahesh.yadav@example.com,9876543271,Process Design Engineer,Asian Paints,Pune
+A063,Varun Jain,2017,B.Tech. Electronics Engineering,Electronics,varun.jain@example.com,9876543272,Embedded Software Engineer,Bosch,Bangalore
+A064,Anusha Menon,2016,B.Tech. Mechanical Engineering,Mechanical Engineering,anusha.menon@example.com,9876543273,Manufacturing Engineer,GE Aviation,Hyderabad
+A065,Harish Kumar,2015,B.Tech. IT,Information Technology,harish.kumar@example.com,9876543274,System Analyst,Tech Mahindra,Pune
+A066,Manisha Yadav,2019,B.Tech. Electrical Engineering,Electrical Engineering,manisha.yadav@example.com,9876543275,Electrical Design Engineer,ABB,Delhi
+A067,Sumit Singh,2020,B.Tech. Computer Science,Computer Science,sumit.singh@example.com,9876543276,Backend Developer,Infosys,Bangalore
+A068,Poonam Sharma,2018,B.Tech. Civil Engineering,Civil Engineering,poonam.sharma@example.com,9876543277,Structural Engineer,NBCC,Delhi
+A069,Santosh Kumar,2017,B.Tech. Mechanical Engineering,Mechanical Engineering,santosh.kumar@example.com,9876543278,Production Engineer,Bharat Forge,Pune
+A070,Shruti Patel,2022,B.Tech. Electrical Engineering,Electrical Engineering,shruti.patel@example.com,9876543279,Power Engineer,Siemens,Mumbai
+A071,Raj Kumar,2015,B.Tech. Chemical Engineering,Chemical Engineering,raj.kumar@example.com,9876543280,Process Control Engineer,ONGC,Chennai
+A072,Neha Kapoor,2016,B.Tech. Electronics Engineering,Electronics,neha.kapoor@example.com,9876543281,Embedded Engineer,Texas Instruments,Bangalore
+A073,Vivek Sharma,2021,B.Tech. Computer Science,Computer Science,vivek.sharma@example.com,9876543282,Data Engineer,Flipkart,Hyderabad
+A074,Arjun Singh,2020,B.Tech. Civil Engineering,Civil Engineering,arjun.singh@example.com,9876543283,Site Engineer,Simplex Infrastructure,Mumbai
+A075,Divya Nair,2019,B.Tech. Mechanical Engineering,Mechanical Engineering,divya.nair@example.com,9876543284,Mechanical Designer,Siemens,Chennai
+A076,Mohan Joshi,2017,B.Tech. IT,Information Technology,mohan.joshi@example.com,9876543285,System Analyst,HCL,Pune
+A077,Anita Mishra,2016,B.Tech. Electrical Engineering,Electrical Engineering,anita.mishra@example.com,9876543286,Electrical Engineer,NTPC,Delhi
+A078,Kunal Yadav,2022,B.Tech. Computer Science,Computer Science,kunal.yadav@example.com,9876543287,Machine Learning Engineer,Facebook,Bangalore
+A079,Seema Gupta,2020,B.Tech. Chemical Engineering,Chemical Engineering,seema.gupta@example.com,9876543288,Process Engineer,ONGC,Chennai
+A080,Varsha Jain,2018,B.Tech. Civil Engineering,Civil Engineering,varsha.jain@example.com,9876543289,Project Manager,L&T,Hyderabad
+A081,Vijay Verma,2019,B.Tech. Electronics Engineering,Electronics,vijay.verma@example.com,9876543290,RF Engineer,Qualcomm,Delhi
+A082,Sachin Sharma,2021,B.Tech. Mechanical Engineering,Mechanical Engineering,sachin.sharma@example.com,9876543291,Design Engineer,Hyundai,Mumbai
+A083,Preeti Singh,2020,B.Tech. IT,Information Technology,preeti.singh@example.com,9876543292,Software Developer,Zoho,Chennai
+A084,Rahul Mehta,2015,B.Tech. Electrical Engineering,Electrical Engineering,rahul.mehta@example.com,9876543293,Power Systems Engineer,BHEL,Delhi
+A085,Kirti Kapoor,2018,B.Tech. Computer Science,Computer Science,kirti.kapoor@example.com,9876543294,Cloud Engineer,Microsoft,Bangalore
+A086,Ramesh Choudhury,2019,B.Tech. Civil Engineering,Civil Engineering,ramesh.choudhury@example.com,9876543295,Construction Engineer,Simplex,Mumbai
+A087,Namita Sharma,2021,B.Tech. Mechanical Engineering,Mechanical Engineering,namita.sharma@example.com,9876543296,Quality Engineer,Toyota,Chennai
+A088,Ashok Sinha,2017,B.Tech. Chemical Engineering,Chemical Engineering,ashok.sinha@example.com,9876543297,Process Engineer,ONGC,Pune
+A089,Nisha Patel,2022,B.Tech. IT,Information Technology,nisha.patel@example.com,9876543298,Application Developer,TCS,Bangalore
+A090,Aakash Kumar,2016,B.Tech. Electronics Engineering,Electronics,aakash.kumar@example.com,9876543299,RF Engineer,Intel,Noida
+A091,Sneha Shah,2015,B.Tech. Electrical Engineering,Electrical Engineering,sneha.shah@example.com,9876543300,Power Engineer,Siemens,Chennai
+A092,Anand Verma,2018,B.Tech. Computer Science,Computer Science,anand.verma@example.com,9876543301,Software Engineer,Google,Hyderabad
+A093,Kavita Nair,2019,B.Tech. Civil Engineering,Civil Engineering,kavita.nair@example.com,9876543302,Project Engineer,L&T,Delhi
+A094,Suraj Singh,2017,B.Tech. Mechanical Engineering,Mechanical Engineering,suraj.singh@example.com,9876543303,Production Engineer,TATA Motors,Pune
+A095,Aditi Gupta,2016,B.Tech. IT,Information Technology,aditi.gupta@example.com,9876543304,IT Support Engineer,Infosys,Hyderabad
+A096,Ajay Kumar,2015,B.Tech. Electrical Engineering,Electrical Engineering,ajay.kumar@example.com,9876543305,Electrical Engineer,BHEL,Bangalore
+A097,Parul Mehta,2019,B.Tech. Computer Science,Computer Science,parul.mehta@example.com,9876543306,Backend Developer,Amazon,Mumbai
+A098,Rajiv Sharma,2021,B.Tech. Civil Engineering,Civil Engineering,rajiv.sharma@example.com,9876543307,Structural Engineer,NBCC,Delhi
+A099,Pooja Verma,2020,B.Tech. Chemical Engineering,Chemical Engineering,pooja.verma@example.com,9876543308,Chemical Engineer,ONGC,Pune
+A100,Nitin Bhatt,2022,B.Tech. Electronics Engineering,Electronics,nitin.bhatt@example.com,9876543309,Embedded Engineer,Bosch,Bangalore
+A101,Karan Singh,2017,B.Tech. Mechanical Engineering,Mechanical Engineering,karan.singh@example.com,9876543310,Automobile Engineer,TATA Motors,Mumbai
+A102,Sushil Kumar,2016,B.Tech. Electrical Engineering,Electrical Engineering,sushil.kumar@example.com,9876543311,Electrical Systems Engineer,GE,Hyderabad
+A103,Madhuri Nair,2018,B.Tech. Computer Science,Computer Science,madhuri.nair@example.com,9876543312,Data Scientist,Paytm,Bangalore
+A104,Sneha Sharma,2020,B.Tech. Chemical Engineering,Chemical Engineering,sneha.sharma@example.com,9876543313,Process Engineer,Dr. Reddy’s,Hyderabad
+A105,Rajiv Verma,2021,B.Tech. Electronics Engineering,Electronics,rajiv.verma@example.com,9876543314,Embedded Engineer,Nokia,Chennai
+A106,Pratiksha Jain,2019,B.Tech. IT,Information Technology,pratiksha.jain@example.com,9876543315,System Analyst,Infosys,Pune
+A107,Ankush Mehta,2020,B.Tech. Civil Engineering,Civil Engineering,ankush.mehta@example.com,9876543316,Site Engineer,L&T,Delhi
+A108,Swati Singh,2016,B.Tech. Electrical Engineering,Electrical Engineering,swati.singh@example.com,9876543317,Power Distribution Engineer,TATA Power,Noida
+A109,Suresh Rathi,2015,B.Tech. Mechanical Engineering,Mechanical Engineering,suresh.rathi@example.com,9876543318,Production Supervisor,Hero Motocorp,Delhi
+A110,Geeta Patel,2018,B.Tech. Computer Science,Computer Science,geeta.patel@example.com,9876543319,Software Developer,Capgemini,Bangalore
+A111,Harsha Iyer,2021,B.Tech. Civil Engineering,Civil Engineering,harsha.iyer@example.com,9876543320,Structural Analyst,GMR Group,Mumbai
+A112,Ajit Roy,2022,B.Tech. Electronics Engineering,Electronics,ajit.roy@example.com,9876543321,RF Engineer,Samsung,Bangalore
+A113,Sindhu Sharma,2019,B.Tech. Chemical Engineering,Chemical Engineering,sindhu.sharma@example.com,9876543322,Chemical Safety Engineer,ONGC,Pune
+A114,Vikrant Chauhan,2017,B.Tech. IT,Information Technology,vikrant.chauhan@example.com,9876543323,Technical Support Specialist,Dell,Hyderabad
+A115,Priya Bhattacharya,2015,B.Tech. Computer Science,Computer Science,priya.bhattacharya@example.com,9876543324,Data Engineer,Flipkart,Bangalore
+A116,Nilesh Patel,2018,B.Tech. Mechanical Engineering,Mechanical Engineering,nilesh.patel@example.com,9876543325,Maintenance Engineer,Bajaj Auto,Pune
+A117,Kavya Menon,2021,B.Tech. Electrical Engineering,Electrical Engineering,kavya.menon@example.com,9876543326,Electrical Project Engineer,Siemens,Delhi
+A118,Alok Sinha,2016,B.Tech. Civil Engineering,Civil Engineering,alok.sinha@example.com,9876543327,Structural Engineer,NBCC India,Mumbai
+A119,Juhi Verma,2022,B.Tech. Chemical Engineering,Chemical Engineering,juhi.verma@example.com,9876543328,Process Engineer,Hindustan Unilever,Chennai
+A120,Varun Khanna,2019,B.Tech. Electronics Engineering,Electronics,varun.khanna@example.com,9876543329,Embedded Systems Developer,Bosch,Hyderabad
